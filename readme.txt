@@ -1,12 +1,13 @@
-Hlavny subor je DrawWorld.
+Main file is DrawWorld.
 
-Po spustení program simuluje pohyb levov a gaziel v Serengetiho svete.
--Vpísaním èísla do políèka "šírka sveta" a "vıška sveta" nastavíte rozmery Serengetiho sveta.
--Políèkom "vidite¾nos" nastavujete poèet jednotiek, na ktoré vidí gazela aj lev.
--Vpísaním èísla do polícka Poèet zaè. gaziel" a "poèet zaè. levov" nastavíte poèet zaèiatoènıch gaziel alebo poèet zaèiatocnıch levov.
--Políèkom "poèet tráv" nastavíme ko¾ko tráv sa má vygenerova po vytvorení novej generácie a zároveò políèko "energia tráv" hovorí ko¾ko energie máme rozloi medzi tieto trávy.
--Políèko "poèet jedincov v danej generácií hovorí samo za seba".
-Ak je toto všetko nastavené, môte stlaèit Run. Ak sa vám nieèo nepáèi alebo ak simulácia skonèila, opätovne môete nastavit parametre a zavolat Run.
+Description in Slovak:
+Po spustenÃ­ program simuluje pohyb levov a gaziel v Serengetiho svete.
+-VpÃ­sanÃ­m ÄÃ­sla do polÃ­Äka "Å¡Ã­rka sveta" a "vÃ½Å¡ka sveta" nastavÃ­te rozmery Serengetiho sveta.
+-PolÃ­Äkom "viditeÄ¾nosÅ¥" nastavujete poÄet jednotiek, na ktorÃ© vidÃ­ gazela aj lev.
+-VpÃ­sanÃ­m ÄÃ­sla do polÃ­cka PoÄet zaÄ. gaziel" a "poÄet zaÄ. levov" nastavÃ­te poÄet zaÄiatoÄnÃ½ch gaziel alebo poÄet zaÄiatocnÃ½ch levov.
+-PolÃ­Äkom "poÄet trÃ¡v" nastavÃ­me koÄ¾ko trÃ¡v sa mÃ¡ vygenerovaÅ¥ po vytvorenÃ­ novej generÃ¡cie a zÃ¡roveÅˆ polÃ­Äko "energia trÃ¡v" hovorÃ­ koÄ¾ko energie mÃ¡me rozloÅ¾iÅ¥ medzi tieto trÃ¡vy.
+-PolÃ­Äko "poÄet jedincov v danej generÃ¡ciÃ­ hovorÃ­ samo za seba".
+Ak je toto vÅ¡etko nastavenÃ©, mÃ´Å¾te stlaÄit Run. Ak sa vÃ¡m nieÄo nepÃ¡Äi alebo ak simulÃ¡cia skonÄila, opÃ¤tovne mÃ´Å¾ete nastavit parametre a zavolat Run.
 
 
-Lucia Simanová
+Lucia Pal
